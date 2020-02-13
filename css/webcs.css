@@ -31,19 +31,24 @@
   text-align: right;
 #  border: 2px solid;
 }
-.op{
-  color: black;
-  text-decoration: none;
+.list-i{
+  margin-left: 30%;
+  margin-top:2%;
 }
-.op:hover{
+.nav-i{
+  color: black;
+  font-size: 92%;
+}
+.nav-i:hover{
   color: #FFE66D;
   text-decoration: none;
 }
 .logo{
-  width: 20%;
-  background-color: blue;
-  border-radius: 5px;
+  padding-top: 0%;
+  margin-left: 18%;
+  width: 2%;
 }
+
 .phone{
   margin-top: 1.6%;
   font-size: 200%;
