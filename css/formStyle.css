@@ -1,0 +1,22 @@
+body{
+  margin-left: 50px;
+  margin-top: 40px;
+}
+form{
+  margin-left: 40px;
+  margin-top: 40px;
+  margin-right: 40px;
+  background-color: yellow;
+}
+.lname{
+  position: relative;
+  left: 50%;
+  display: inline;
+  background-color: pink;
+}
+.ifname{
+
+}
+.lname{
+
+}

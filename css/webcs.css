@@ -1,0 +1,74 @@
+.fix{
+  text-align: center;
+  margin-top: 10px;
+  background-color: #ebe6e6;
+}
+.top{
+  padding-top: 0.5%;
+  padding-bottom: 0.5%;
+}
+.image{
+  width: 100%;
+  height: 700px;
+}
+.buy{
+  position: absolute;
+  bottom: 35%;
+  right: 26%;
+  border: 2px solid white;
+  width: 7%;
+  height: 7%;
+  background: transparent;
+  color: white;
+  transition: 0.5s ease;
+}
+.buy:hover{
+  background-color: white;
+  color: black;
+}
+.column{
+  padding-top: 10px;
+  text-align: right;
+#  border: 2px solid;
+}
+.op{
+  color: black;
+  text-decoration: none;
+}
+.op:hover{
+  color: #FFE66D;
+  text-decoration: none;
+}
+.logo{
+  width: 20%;
+  background-color: blue;
+  border-radius: 5px;
+}
+.phone{
+  margin-top: 1.6%;
+  font-size: 200%;
+}
+.dis{
+  width: 100%;
+  height: 90%;
+}
+.navi{
+  background-color:rgba(255, 255, 255,0.98);
+}
+.detail{
+  position: relative;
+  bottom: 61%;
+  left: 20%;
+  display:inline;
+  text-align: center;
+  font-weight: bold;
+}
+.pro{
+  border: 2px solid black;
+  border-radius: 8px;
+  font-size: 15px;
+  margin-left: 4px;
+  margin-bottom: 10px;
+  padding-left: 3px;
+  padding-right: 3px;
+}

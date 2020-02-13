@@ -1,0 +1,61 @@
+.div1{
+  background-color: black;
+}
+
+.ul_base{
+  float: left;
+}
+.base{
+  background-color: #f0f0e8;
+  position: absolute;
+  width: 100%;
+  bottom: 0px;
+
+}
+.search_button {
+float: none;
+}
+div.div2 ul li button{
+  padding: 8px;
+  border: none;
+}
+ul{
+ float:right;
+ list-style-type: none;
+}
+li{
+  display: inline-block;
+  margin-right: 17px;
+}
+a{
+  color: black;
+  text-decoration: none;
+}
+ul li a img{
+  width: 17px;
+}
+ul li div{
+  padding: 8px;
+  background-color: darkgreen;
+ border-radius: 50%;
+  text-align:center;
+  margin-bottom: 20px;
+  color: white;
+  font-size: 130%;
+}
+.div2{
+  position: absolute;
+  width: 100%;
+ text-align: center;
+  top: 30%;
+}
+header div img{
+  display: block;
+  margin-left: 40%;
+}
+input{
+  margin-top: 10px;
+  width: 30%;
+  height: 32px;
+  border-radius: 20px;
+}
